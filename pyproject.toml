@@ -1,0 +1,8 @@
+[project]
+name = "json-type-count"
+version = "0.1.0"
+description = "Count JSON value types"
+requires-python = ">=3.9"
+license = "MIT"
+
+[tool.unittest]
